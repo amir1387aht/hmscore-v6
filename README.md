@@ -9,7 +9,7 @@ An archive for hmscore sdk v6(2.2.0) used for liteWearable devices.
   5. Enjoy
 
 <b>How to change Deveco studio region:</b>
-  1. Goto C:\Users\%username%\AppData\Roaming\Huawei\DevEcoStudio3.1\options
+  1. Goto C:\Users\\%username%\AppData\Roaming\Huawei\DevEcoStudio3.1\options
   2. Open country.region.xml with Notepad
   3. Find the line contains "<countryregion name="XX"/>"
   4. Set the name to "CN" (<countryregion name="CN"/>)

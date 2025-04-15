@@ -1,3 +1,4 @@
+# hmscore-v6
 An archive for hmscore sdk v6(2.2.0) used for liteWearable devices.
 
 How to use sdk:

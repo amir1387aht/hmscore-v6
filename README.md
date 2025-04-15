@@ -3,7 +3,7 @@ An archive for hmscore sdk v6(2.2.0) used for liteWearable devices.
 
 <b>How to use sdk:</b>
   1. Download the file in links.txt file
-  2. Goto: C:\Users\%username%\AppData\Local\Huawei\Sdk
+  2. Goto: C:\Users\\%username%\AppData\Local\Huawei\Sdk
   3. Create a folder called "2.2.0" if doesn't exists already.
   4. Extract files inside zip file into that folder
   5. Enjoy

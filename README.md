@@ -22,4 +22,4 @@ An archive for hmscore sdk v6(2.2.0) used for liteWearable devices.
   4. Wait to finish & Enjoy
 
 <b>Links:</b>
-  Huawei Docs: https://developer.huawei.com/consumer/en/doc/connectivity-Guides/dev-process-0000001051058039
+  1. Huawei Docs: https://developer.huawei.com/consumer/en/doc/connectivity-Guides/dev-process-0000001051058039

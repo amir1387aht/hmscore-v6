@@ -18,7 +18,7 @@ An archive for hmscore sdk v6(2.2.0) used for liteWearable devices.
 <b>How to uploads app to liteWearable:</b>
   1. Build your app and copy the .hap file(Note that you should sign it, refer to huawei docs)
   2. Place your .hap file inside "haps" folder in your phone root folder(Create it if doesn't exists)
-  3. Install & Open Deveco assistant and tab Apps and click Install on your app name
+  3. Install & Open Deveco assistant and tap on Apps button and click Install on your app name
   4. Wait to finish & Enjoy
 
 <b>Links:</b>
